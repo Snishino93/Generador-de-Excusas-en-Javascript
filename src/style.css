@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: lightskyblue;
+}
+
+.excusas {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+p {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
